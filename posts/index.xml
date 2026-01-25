@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Limonada</title>
-    <link>https://macrba.github.io/hugosoweb.github.io/posts/</link>
+    <link>http://localhost:1313/hugosoweb.github.io/posts/</link>
     <description>Recent content in Posts on Limonada</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Jan 2026 11:59:06 +0100</lastBuildDate>
-    <atom:link href="https://macrba.github.io/hugosoweb.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugosoweb.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://macrba.github.io/hugosoweb.github.io/posts/about/</link>
+      <link>http://localhost:1313/hugosoweb.github.io/posts/about/</link>
       <pubDate>Sat, 17 Jan 2026 11:59:06 +0100</pubDate>
-      <guid>https://macrba.github.io/hugosoweb.github.io/posts/about/</guid>
+      <guid>http://localhost:1313/hugosoweb.github.io/posts/about/</guid>
       <description>&lt;h2 id=&#34;a-headline&#34;&gt;A headline&lt;/h2&gt;&#xA;&lt;p&gt;Obviously a page needs a headline and it&amp;rsquo;ll have some kind of list&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;item0&lt;/li&gt;&#xA;&lt;li&gt;item1&lt;/li&gt;&#xA;&lt;li&gt;item2&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;:::info&#xA;can&amp;rsquo;t you count?&#xA;:::&lt;/p&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Company&lt;/a&gt; website!&lt;/p&gt;&#xA;&lt;h3 id=&#34;some-more&#34;&gt;Some more&lt;/h3&gt;&#xA;&lt;p&gt;Also please find here the mark down &lt;a href=&#34;https://spec.commonmark.org/&#34;&gt;specs&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;You can test them &lt;a href=&#34;https://spec.commonmark.org/dingus/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;now go and play.&lt;/p&gt;</description>
     </item>
   </channel>
